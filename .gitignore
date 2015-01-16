@@ -1,0 +1,10 @@
+# Dir
+/.gradle/
+/.settings/
+/bin/
+/build/
+/eclipse/
+#Extensions
+*.classpath
+*.project
+#Specific

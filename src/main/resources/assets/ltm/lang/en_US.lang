@@ -1,0 +1,9 @@
+item.ltm:mapleLeaf.name=Maple Leaf of Awesomeness
+
+tile.ltm:flag.name=Flag of Awesomeness
+
+itemGroup.ltm=Il tabbo creativo asdf-o
+
+keys.ltm.category=LTM Keybindings
+keys.ltm.charge=LTM Charge
+keys.ltm.release=LTM Release
