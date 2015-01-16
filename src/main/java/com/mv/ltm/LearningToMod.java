@@ -65,7 +65,6 @@ public class LearningToMod {
       // This is where my stuff goes
       Recipes.init();
       FMLCommonHandler.instance().bus().register(new KeyInputEventHandler());
-      FMLCommonHandler.instance().bus().register(new TickStuff());
 
       LogHelper.info(String.format("init complete [took about %dns]",
             System.nanoTime() - timerNS));
